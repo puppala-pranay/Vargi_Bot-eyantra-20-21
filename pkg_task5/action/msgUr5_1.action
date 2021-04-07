@@ -1,0 +1,9 @@
+# goal
+int64 count
+---
+# result
+string res
+---
+# feedback
+string status
+
